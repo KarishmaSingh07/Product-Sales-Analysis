@@ -4,5 +4,7 @@ Technologies:
 Python (Data analysis and visualization) Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
 
 Dataset:
+
 The dataset used in this project is available publicly on Kaggle:
+
 https://www.kaggle.com/datasets/edusanketdk/electronics
