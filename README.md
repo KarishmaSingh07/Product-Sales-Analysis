@@ -1,5 +1,5 @@
 # Product-Sales-Analysis
-This project delves into the world of online electronics sales by analyzing a dataset from Amazon. Using Python libraries and guided by data science principles, we'll uncover valuable insights into customer behavior, product performance, and sales trends. This exploration will aid in understanding market dynamics and potentially inform strategic business decisions.
+This project explores online electronics sales. With the help of Python tools and basic data science methods, we will find useful information about customer choices, how products are doing, and sales patterns. This study will help us better understand the market and support smart business decisions.
 Technologies:
 Python (Data analysis and visualization) Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
 
